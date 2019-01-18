@@ -1,4 +1,4 @@
-<?php     include("./Includes/connexion.inc.php");
+<?php     include("./Includes/connexion.inc.php"); // on insère le fichier connexion ici
 
 $SID=$_COOKIE['nom'];
 
