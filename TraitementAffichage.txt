@@ -1,0 +1,6 @@
+Traitement 	affichage
+
+"ln" => <br> nl2br($messageDansLequelOnVeutRemplacerLesSautsdeligne);
+
+< => &lt; (LowerThan)
+> => &gt; (GreaterThan) => htmlspecialchars($messageDansLequelOnVeutRemplacerLesChevrons);
